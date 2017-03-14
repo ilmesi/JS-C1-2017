@@ -1,0 +1,19 @@
+{
+  "name": "js-c1-2017",
+  "version": "1.0.0",
+  "description": "JS Basics & ES6",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ilmesi/JS-C1-2017.git"
+  },
+  "author": "ilmesi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ilmesi/JS-C1-2017/issues"
+  },
+  "homepage": "https://github.com/ilmesi/JS-C1-2017#readme"
+}
