@@ -4,9 +4,10 @@
   "description": "JS Basics & ES6",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "es5": "node es5/app.js",
-    "es6": "babel-node --presets es2015 es6/app.js"
+    "es5-api": "node es5/api.js",
+    "es6": "babel-node --presets es2015 es6/app.js",
+    "es6-api": "babel-node --presets es2015 es6/api.js"
   },
   "repository": {
     "type": "git",
@@ -21,6 +22,7 @@
   "devDependencies": {
     "babel-cli": "^6.24.0",
     "babel-core": "^6.24.0",
-    "babel-preset-es2015": "^6.24.0"
+    "babel-preset-es2015": "^6.24.0",
+    "isomorphic-fetch": "^2.2.1"
   }
 }
