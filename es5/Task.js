@@ -8,4 +8,4 @@ Task.prototype.complete = function () {
   this.status = 'completed';
 };
 
-module.exports.Task = Task;
+module.exports = Task;

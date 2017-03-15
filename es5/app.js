@@ -1,11 +1,11 @@
-var tasks = require('./Task');
+var Task = require('./Task');
 var TaskList = require('./TaskList');
 
-var task1 = new tasks.Task(1, 'Tarea 1');
+var task1 = new Task(1, 'Tarea 1');
 
-var task2 = new tasks.Task(2, 'Tarea 2');
+var task2 = new Task(2, 'Tarea 2');
 
-var task3 = new tasks.Task(3, 'Tarea 3');
+var task3 = new Task(3, 'Tarea 3');
 task3.complete();
 
 var taskList = TaskList('Semana 1');
