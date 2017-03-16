@@ -8,6 +8,7 @@
 - Package managers
 - Module management
 - ES6
+- Promises
 
 
 ## Run scripts
