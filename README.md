@@ -37,6 +37,7 @@ $ npm run es6-api
 ### ES6
 
 
+- http://es6-features.org/
 - https://carlosazaustre.es/blog/ecmascript-6-el-nuevo-estandar-de-javascript/
 - http://ccoenraets.github.io/es6-tutorial/
 - https://github.com/ericdouglas/ES6-Learning
@@ -47,4 +48,11 @@ $ npm run es6-api
 ### NPM
 
 
+- https://www.sitepoint.com/beginners-guide-node-package-manager/
 - https://medium.freecodecamp.com/why-i-left-gulp-and-grunt-for-npm-scripts-3d6853dd22b8
+
+
+### GULP VS Webpack
+
+
+- https://www.toptal.com/front-end/webpack-browserify-gulp-which-is-better

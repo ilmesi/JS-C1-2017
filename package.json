@@ -9,16 +9,8 @@
     "es6": "babel-node --presets es2015 es6/app.js",
     "es6-api": "babel-node --presets es2015 es6/api.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/ilmesi/JS-C1-2017.git"
-  },
   "author": "ilmesi",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/ilmesi/JS-C1-2017/issues"
-  },
-  "homepage": "https://github.com/ilmesi/JS-C1-2017#readme",
   "devDependencies": {
     "babel-cli": "^6.24.0",
     "babel-core": "^6.24.0",
