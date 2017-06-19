@@ -11,8 +11,14 @@
 - Promises
 
 
-## Run scripts
+## Install
 
+```bash
+$ npm install
+```
+
+
+## Run scripts
 
 ```bash
 $ npm run es5
